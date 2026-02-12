@@ -1,0 +1,19 @@
+﻿**Subject**: Split-screen composition for MQL5 EA Template Project.
+
+**Left Side (Visual Identity)**:
+A high-quality 3D render of a futuristic **glowing wireframe cube transforming into a solid golden block**.
+*   *Symbolism*: Represents a solid foundation, structure, and modular code.
+*   *Style*: Cyberpunk / Minimalist / Professional Financial / Futuristic Glassmorphism.
+
+**Right Side (Logic Highlights Card)**:
+A floating, semi-transparent glass info-card or HUD panel displaying key features.
+*   *Visuals*: Clean code syntax lines in the background.
+*   *Text Representation*:
+    *   [BASE FRAMEWORK]
+    *   [RISK MODULE]
+    *   [READY TO DEPLOY]
+
+**Overall Atmosphere**:
+*   **Tone**: Professional, trustworthy, structural, high-tech.
+*   **Color Palette**: Deep Grey background with Neon Blue (Code) and Gold (Value) accents.
+*   **Composition**: Balanced split-screen, rule of thirds.
