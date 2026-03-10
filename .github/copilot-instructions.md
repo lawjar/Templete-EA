@@ -29,6 +29,6 @@ You are an expert MQL5/MQL4 developer specializing in algorithmic trading strate
 - **Language**: Respond in **Traditional Chinese (廣東話口語 or 書面語)** as requested by the user.
 
 ## Workflow Automation (Custom Tasks)
-- **Constraint**: This workspace uses a \prompts.md\ file in the root directory to store reusable complex workflows.
-- **Trigger**: When the user input starts with **"task:"** or asks to execute a specific task from prompts.
-- **Action**: You MUST read \prompts.md\ content FIRST.
+- **Constraint**: This workspace uses a \TASK.md\ file in the root directory to store reusable complex workflows.
+- **Trigger**: When the user input starts with **"task:"** or asks to execute a specific task from tasks.
+- **Action**: You MUST read \TASK.md\ content FIRST.
