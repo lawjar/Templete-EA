@@ -1,0 +1,11 @@
+{
+  // 固定 repo 級 markdownlint 規則，避免不同機器跟 user-level 預設各自報警。
+  "default": true,
+  "MD007": {
+    "indent": 4
+  },
+  "MD029": {
+    "style": "ordered"
+  },
+  "MD013": false
+}
